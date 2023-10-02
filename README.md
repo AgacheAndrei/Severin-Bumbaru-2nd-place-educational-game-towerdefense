@@ -16,7 +16,7 @@ Objective:
 #### The "_game_exe_file" folder is not from the unity project, inside is the data from the unity export to .exe file for windows platform 
 #### In "_game_exe_file" you have the .exe file if you want to play this game
 #### If bugs occurs you can move it to a different location
-## Scores 💯
+## Scores used by judges 💯
 <pre>
 Sounds: (10 points) 🔊
   ➔ Soundtrack
