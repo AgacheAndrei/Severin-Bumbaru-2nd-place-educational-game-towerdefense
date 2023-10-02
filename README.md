@@ -10,7 +10,7 @@ Objective:
 - Level 2: Accumulate points through the demonstration of advanced skills and abilities (which depend on those from Level 1) and confrontation.
 </pre>
 
-## 
+## Scores
 <pre>
 Sounds: (10 points)
   ➔ Soundtrack
