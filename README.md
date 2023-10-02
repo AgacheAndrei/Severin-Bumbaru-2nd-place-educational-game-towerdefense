@@ -11,7 +11,8 @@ Objective:
 </pre>
 
 ### **! 48 hours to resolve this problem !**
-### THE GAME IS NOT COMPLETE - because the time was short and we tried to deliver as much as possible
+### THE GAME IS NOT COMPLETE - because the time was short and we tried to deliver as much as possible 
+#### I think not all the files where uploaded, some github magic happened 
 
 ## Scores 💯
 <pre>
