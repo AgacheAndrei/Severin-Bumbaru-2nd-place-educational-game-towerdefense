@@ -52,6 +52,7 @@ The game is in the Romanian language, I mean the questions, the text from the en
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />   
 
 <br>  
+
 ## Story
 The game is called "Lorzii Sesiunii" an tells the story of the computer since students from futere. Their campus is under heavy attack from Lorzii Sesiunii, mythical creatures from an alternative timeline. They want all students to have failed examens and torment the young lifes with unnecessary homeworks, projects, and powerpoints older than time. Your job is to help this students defend their home by strategic positioning them on the board to to repel attacks from waves of enemies and by answering correct at question about computer since to get coins to by more defense. 
 ## Gameplay -- info
