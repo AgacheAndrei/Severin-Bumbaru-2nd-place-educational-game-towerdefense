@@ -82,6 +82,6 @@ You see a countdown before you can start the game.
 ### Level 2
 ![tower_game_7](https://github.com/AgacheAndrei/Severin-Bumbaru-2nd-place-educational-game-towerdefense/assets/36128809/2fd86302-fb25-4951-9c7a-8df354053ec9)
 ![tower_game_8](https://github.com/AgacheAndrei/Severin-Bumbaru-2nd-place-educational-game-towerdefense/assets/36128809/e8b43f38-f66b-432f-bbab-46b37dba64a2)
-## Gameplay -- The video is short because github limits files upload to be maxim 25 mb 
+## Gameplay -- The video is short because github limits files upload to be maxim 25 mb - and is inside the unity engine
 https://github.com/AgacheAndrei/Severin-Bumbaru-2nd-place-educational-game-towerdefense/assets/36128809/46dfd6f8-cde8-470d-a4c9-cb2fe6675745
 
